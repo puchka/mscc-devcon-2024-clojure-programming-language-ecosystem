@@ -21,3 +21,12 @@ Raleigh-Durham, NC."){width=150}
 
 ![Y Combinator Codex by emacsomancer.](ycombinator-codex_banner.png "A
 mock medieval manuscript created in LateX")
+
+# What is LISP?
+
+- LISt Processing language
+- 2nd oldest High-Level Language after FORTRAN
+- 1958 - John McCarthy
+
+![John McCarthy at work in his artificial intelligence laboratory at
+Stanford](john_mccarthy.jpg "John McCarthy")
