@@ -17,6 +17,8 @@ titlegraphic: MSCC-DevCon2024-logo.png
 https://creativecommons.org/licenses/by-sa/2.0/](rich-hickey-clojure-conj-2010.jpg "Clojure Conj 2010, Photographs from the first Clojure Conj,
 Raleigh-Durham, NC."){width=150}
 
+- General Purpose
+
 # What is LISP?
 
 ![Y Combinator Codex by emacsomancer.](ycombinator-codex_banner.png "A
@@ -30,3 +32,11 @@ mock medieval manuscript created in LateX")
 
 ![John McCarthy at work in his artificial intelligence laboratory at
 Stanford](john_mccarthy.jpg "John McCarthy")
+
+# Why Clojure?
+
+- Designed with simplicity
+- Functional Programming
+- Data Oriented
+
+![It's just data sticker, https://jorin.me/its-just-data-stickers/](itsjustdata-sticker-bw.jpg "It's just data sticker")
