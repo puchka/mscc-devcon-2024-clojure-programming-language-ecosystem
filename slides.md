@@ -1,6 +1,8 @@
 ---
 title: Clojure programming language & it's ecosystem
 author: Marius Rabenarivo
+theme: Frankfurt
+titlegraphic: MSCC-DevCon2024-logo.png
 ---
 
 # What is Clojure?
