@@ -39,4 +39,11 @@ Stanford](john_mccarthy.jpg "John McCarthy")
 - Functional Programming
 - Data Oriented
 
-![It's just data sticker, https://jorin.me/its-just-data-stickers/](itsjustdata-sticker-bw.jpg "It's just data sticker")
+![Code? Data? Code? Data?](spiderman-pointing-meme.jpg "Spiderman pointing meme"){width=360}
+
+# Functional Programming
+
+- Immutability
+- Referential transparency
+- Easy to think about systems
+- Parallel and concurrent programming
