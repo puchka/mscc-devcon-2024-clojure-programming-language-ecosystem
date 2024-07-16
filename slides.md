@@ -43,9 +43,17 @@ Stanford](john_mccarthy.jpg "John McCarthy")
 
 # Why Clojure?
 
-![2023 Developer Survey, Top paying technologies](Stack-Overflow-Developer-Survey-2023-top-paying-technologies.png "Top Paying Technologies"){height=360}
+![2023 Developer Survey, Top paying technologies](Stack-Overflow-Developer-Survey-2023-top-paying-technologies.png "Top Paying Technologies"){height=240}
+
 **Source:**
 [https://survey.stackoverflow.co/2023/#section-top-paying-technologies-top-paying-technologies](https://survey.stackoverflow.co/2023/#section-top-paying-technologies-top-paying-technologies)
+
+# Why Clojure?
+
+![Stack Overflow Developer Survey 2022, Most loved, dreaded, and wanted](Stack-Overflow-Developer-Survey-2022-most-loved-dreaded-and-wanted-language-love-dread.png "Most loved, dreaded, and wanted"){height=240}
+
+**Source:**
+[https://survey.stackoverflow.co/2022/#technology-most-loved-dreaded-and-wanted](https://survey.stackoverflow.co/2022/#technology-most-loved-dreaded-and-wanted)
 
 # Functional Programming
 
