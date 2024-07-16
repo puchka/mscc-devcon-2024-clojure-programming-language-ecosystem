@@ -41,6 +41,12 @@ Stanford](john_mccarthy.jpg "John McCarthy")
 
 ![Code? Data? Code? Data?](spiderman-pointing-meme.jpg "Spiderman pointing meme"){width=360}
 
+# Why Clojure?
+
+![2023 Developer Survey, Top paying technologies](Stack-Overflow-Developer-Survey-2023-top-paying-technologies.png "Top Paying Technologies"){height=360}
+**Source:**
+[https://survey.stackoverflow.co/2023/#section-top-paying-technologies-top-paying-technologies](https://survey.stackoverflow.co/2023/#section-top-paying-technologies-top-paying-technologies)
+
 # Functional Programming
 
 - Immutability
