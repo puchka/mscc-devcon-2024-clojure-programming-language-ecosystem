@@ -65,3 +65,7 @@ Stanford](john_mccarthy.jpg "John McCarthy")
 # Where to go from here?
 
 ![Clojure for the Brave and True, Daniel Higginbotham](Misaka_Mikoto_Clojure_For_The_Brave_And_True.png "Misaka Mikoto holding Clojure for the Brave and True"){height=270}
+
+# Functional Programmers Community
+
+![Functional Programmers Commmunity Discord server](functional-programmers-community-discord-server.png "Functional Programmers Community Discord server"){height=270}
