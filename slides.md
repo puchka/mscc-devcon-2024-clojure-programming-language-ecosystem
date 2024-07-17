@@ -61,3 +61,7 @@ Stanford](john_mccarthy.jpg "John McCarthy")
 - Referential transparency
 - Easy to think about systems
 - Parallel and concurrent programming
+
+# Where to go from here?
+
+![Clojure for the Brave and True, Daniel Higginbotham](Misaka_Mikoto_Clojure_For_The_Brave_And_True.png "Misaka Mikoto holding Clojure for the Brave and True"){height=270}
